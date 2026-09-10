@@ -18,5 +18,3 @@ A simple web application for students to view college events.
 
 \- CSS
 
-
-
